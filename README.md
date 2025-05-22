@@ -1,4 +1,4 @@
-
+aa
 
 salario_bruto = float(input("Informe seu salário bruto: "))
 horas_trabalhadas = float(input("Informe a quantidade de horas trabalhadas: "))
